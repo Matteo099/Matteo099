@@ -22,19 +22,6 @@ I’m passionate about blending development and operations, crafting elegant ful
 
 ---
 
-### 🏗️ Featured Projects
-
-- 📘 **[Teachers Agenda](https://github.com/Matteo099/teachers-agenda)**\
-  A PWA manager for music teachers to handle scheduling and tasks, built with Vue 3 and Firebase.
-
-- 🛠️ **[Duerre Manager](https://github.com/Matteo099/duerre-manager)**\
-  A watch factory management tool, built using Quarkus and Vue 3.
-
-- 🎮 **[Fragments of Reality](https://github.com/Matteo099/fragments-of-reality)**\
-  A 2D game in development, powered by Quarkus, Vue 3, PixiJS, WebSocket, and more.
-
----
-
 ### 📬 Let's Connect!
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/matteo-romagnoli099)**
