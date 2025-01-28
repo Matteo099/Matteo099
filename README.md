@@ -16,17 +16,9 @@ I’m passionate about blending development and operations, crafting elegant ful
 
 ### 🚀 Tech Stack
 
-**DevOps Expertise**:
+**DevOps Expertise**: Kubernetes | ArgoCD | Helm | GitLab Pipelines | Google Cloud Platform (GCP)
 
-- Kubernetes | Rancher | ArgoCD | Helm
-- GitLab Pipelines&#x20;
-- Google Cloud Platform (GCP)
-
-**Full-Stack Development**:
-
-- Backend: **Java & Quarkus**
-- Frontend: **TypeScript & Vue 3 (with Vuetify)**
-- Mobile Apps: **PWA (Progressive Web Apps)**
+**Full-Stack Development**: Java & Quarkus | TypeScript & Vue 3 (with Vuetify) | PWA (Progressive Web Apps)
 
 ---
 
@@ -43,15 +35,7 @@ I’m passionate about blending development and operations, crafting elegant ful
 
 ---
 
-### 💡 Interests
-
-- Full-stack development with modern frameworks.
-- Exploring PWA (Progressive Web Apps) for mobile solutions.
-- Crafting engaging and immersive gaming experiences.
-
----
-
 ### 📬 Let's Connect!
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/matteo-romagnoli)**
-- ✉️ **Email**: [matteo@example.com](mailto\:matteo@example.com)
+- 💼 **[LinkedIn](https://www.linkedin.com/in/matteo-romagnoli099)**
+- ✉️ **Email**: [matteo02.romagnoli@studenti.unicam.it](mailto\:matteo02.romagnoli@studenti.unicam.it)
